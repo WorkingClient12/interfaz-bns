@@ -7,6 +7,7 @@ Created on Wed Apr  3 21:40:16 2024
 
 from Tree_OK import Node4
 from Dibuja_Grafo import dibujar
+import *
 
 
 class BusCost:
