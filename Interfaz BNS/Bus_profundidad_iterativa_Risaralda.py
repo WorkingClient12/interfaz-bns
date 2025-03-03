@@ -2,13 +2,13 @@
 """
 Created on Sun Aug 23 14:49:27 2020
 
-@author: ferna
+@author: Sergio
 
 """
 
 from Tree_OK import Node3
 from Dibuja_Grafo import dibujar
-
+from Tree_OK
 class BusIt:
     def search_DSF_prof_iter(node, solution, connections_with_numbers):
         for limit in range(0,100):
